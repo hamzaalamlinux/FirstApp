@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hamza/AndroidStudioProjects/FirstApp/app/src/main/res/drawable/round_corner.xml" value="0.279" />
         <entry key="..\:/Users/hamza/AndroidStudioProjects/FirstApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hamza/AndroidStudioProjects/FirstApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
       </map>
     </option>
   </component>

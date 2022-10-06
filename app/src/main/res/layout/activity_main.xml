@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F3F3"
+    android:background="@color/backscreen"
     tools:context=".MainActivity">
 
     <ImageView
@@ -72,6 +72,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:background="#50CBE5"
+        android:onClick="regisetr"
         android:text="Get Started"
         android:textColor="#FDF9F9"
         app:layout_constraintBottom_toBottomOf="parent"
